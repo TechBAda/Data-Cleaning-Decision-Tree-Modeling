@@ -8,7 +8,7 @@ The project showcases strong data understanding, feature engineering, and model 
 
 ---
 
-## 📁 Datasets Used
+## Datasets Used
 - **Chickwts.csv** — Weight of chicks fed different protein sources (exploratory analysis)
 - **HMEQ dataset (hmeq-1.csv)** — Home Equity Loan credit risk dataset (prediction modeling)
 - **OVC Clinical Info** — Clinical dataset used for data cleaning, recoding, and preprocessing practice
