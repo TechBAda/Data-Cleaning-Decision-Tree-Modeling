@@ -48,7 +48,7 @@ Includes:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 project/
 │
 ├── notebooks/
